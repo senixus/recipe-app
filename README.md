@@ -1,13 +1,13 @@
 # Recipe App
 
-Main goal of this project is to improve my JavaScript skills.
+The main goal of this project is to improve my JavaScript skills.
 
-<b>Note : </b>First of all i didn't create HTML and CSS files. I implemented JavaScript.
-if you want to get HTML and css files, you can find [here](https://github.com/jonasschmedtmann/complete-javascript-course/tree/master/18-forkify).
+<b>Note : </b>First of all, I didn't create HTML and CSS files. I implemented JavaScript.
+If you want to get HTML and CSS files, you can find them [here](https://github.com/jonasschmedtmann/complete-javascript-course/tree/master/18-forkify).
 
 ## Getting Started
 
-After clonning the repo, you need to install all dependencies.
+After cloning the repo, you need to install all the dependencies.
 
 ```
 npm install
@@ -18,7 +18,7 @@ or
 yarn install
 ```
 
-After installing all dependencies, you can run app.
+After installing all the dependencies, you can run the app.
 
 ```
 npm start
@@ -30,4 +30,4 @@ or
 yarn start
 ```
 
-App will run on port `1234`
+The app will run on port `1234`
